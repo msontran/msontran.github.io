@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Home
 ---
 
 I'm a quantitative analyst working on derivative pricing and market risk at
